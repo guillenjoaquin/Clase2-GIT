@@ -26,7 +26,7 @@ Después miré un poco las plataformas más comunes para trabajar con Git: GitHu
 
 | Característica                  | GitHub                                  | GitLab                                    |
 |--------------------------------|------------------------------------------|-------------------------------------------|
-| Propiedad                      | De Microsoft                            | Open source, se puede auto-hospedar       |
+| Propiedad                      | De Microsoft                            | Open source, se puede auto-hostear       |
 | CI/CD                          | Tiene GitHub Actions, pero hay que configurarlo | GitLab trae CI/CD muy integrado de fábrica |
 | Gestión de tareas              | Tiene Projects, tipo Kanban              | Más completo para trabajo colaborativo     |
 | Uso gratuito                   | Repos privados sin costo                 | También, y con más herramientas integradas |
